@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 431,
-    "timeDay": 431,
-    "timeWeek": 431,
-    "timeMonth": 431,
-    "timeYear": 431,
+    "time": 587,
+    "timeDay": 587,
+    "timeWeek": 587,
+    "timeMonth": 587,
+    "timeYear": 587,
     "dailyMinutesDown": {}
   },
   {
@@ -37,23 +37,21 @@
   },
   {
     "name": "LCD",
-    "url": "https://chainofsecrets.secrettestnet.io/",
+    "url": "https://chainofsecrets.secrettestnet.io/node_info",
     "icon": "https://favicons.githubusercontent.com/chainofsecrets.secrettestnet.io",
     "slug": "lcd",
-    "status": "down",
-    "uptime": "7.22%",
-    "uptimeDay": "7.22%",
-    "uptimeWeek": "7.22%",
-    "uptimeMonth": "7.22%",
-    "uptimeYear": "7.22%",
-    "time": 249,
-    "timeDay": 249,
-    "timeWeek": 249,
-    "timeMonth": 249,
-    "timeYear": 249,
-    "dailyMinutesDown": {
-      "2021-05-18": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 220,
+    "timeDay": 220,
+    "timeWeek": 220,
+    "timeMonth": 220,
+    "timeYear": 220,
+    "dailyMinutesDown": {}
   },
   {
     "name": "RPC",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 84,
-    "timeDay": 84,
-    "timeWeek": 84,
-    "timeMonth": 84,
-    "timeYear": 84,
+    "time": 85,
+    "timeDay": 85,
+    "timeWeek": 85,
+    "timeMonth": 85,
+    "timeYear": 85,
     "dailyMinutesDown": {}
   }
 ]
