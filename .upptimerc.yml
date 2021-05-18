@@ -4,12 +4,15 @@ repo: upptime-1
 sites:
   - name: Holodeck explorer
     url: https://explorer.secrettestnet.io/
+    __dangerous__body_down: "The chain appears to be stopped"
+
   - name: Faucet
     url: https://faucet.secrettestnet.io/
   - name: LCD
-    url: https://chainofsecrets.secrettestnet.io/node_info
+    url: https://chainofsecrets.secrettestnet.io/syncing
+    __dangerous__body_down: "true"
   - name: RPC
-    url: https://chainofsecrets.secrettestnet.io:26667/
+    url: https://chainofsecrets.secrettestnet.io:26667
 
 status-website:
   baseUrl: /levackt/upptime-1
