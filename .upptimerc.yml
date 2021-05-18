@@ -7,7 +7,7 @@ sites:
   - name: Faucet
     url: https://faucet.secrettestnet.io/
   - name: LCD
-    url: https://chainofsecrets.secrettestnet.io/
+    url: https://chainofsecrets.secrettestnet.io/node_info
   - name: RPC
     url: https://chainofsecrets.secrettestnet.io:26667/
 
