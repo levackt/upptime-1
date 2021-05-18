@@ -10,7 +10,7 @@ sites:
     url: https://faucet.secrettestnet.io/
   - name: LCD
     url: https://chainofsecrets.secrettestnet.io/syncing
-    __dangerous__body_down: "true"
+    __dangerous__body_down: "false"
   - name: RPC
     url: https://chainofsecrets.secrettestnet.io:26667
 
