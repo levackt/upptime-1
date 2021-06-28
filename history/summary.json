@@ -40,9 +40,9 @@
     "url": "https://chainofsecrets.secrettestnet.io/syncing",
     "icon": "https://favicons.githubusercontent.com/chainofsecrets.secrettestnet.io",
     "slug": "lcd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 408,
     "timeMonth": 249,
     "timeYear": 239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-28": 0
+    }
   },
   {
     "name": "RPC",
