@@ -4,7 +4,7 @@
     "url": "https://explorer.secrettestnet.io/",
     "icon": "https://favicons.githubusercontent.com/explorer.secrettestnet.io",
     "slug": "holodeck-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 342,
     "timeMonth": 244,
     "timeYear": 292,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-02": 0
+    }
   },
   {
     "name": "Faucet",
