@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/explorer.secrettestnet.io",
     "slug": "holodeck-explorer",
     "status": "down",
-    "uptime": "35.16%",
+    "uptime": "35.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.16%",
+    "uptimeYear": "35.14%",
     "time": 292,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2021-09-21": 1378,
+      "2021-09-22": 56,
+      "2021-09-21": 1440,
       "2021-09-20": 1440,
       "2021-09-19": 1440,
       "2021-09-18": 1440,
@@ -107,18 +108,16 @@
     "slug": "faucet",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 328,
-    "timeWeek": 200,
+    "time": 207,
+    "timeDay": 411,
+    "timeWeek": 203,
     "timeMonth": 195,
-    "timeYear": 206,
-    "dailyMinutesDown": {
-      "2021-09-21": 5
-    }
+    "timeYear": 207,
+    "dailyMinutesDown": {}
   },
   {
     "name": "LCD",
@@ -131,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 270,
-    "timeDay": 169,
-    "timeWeek": 176,
+    "time": 271,
+    "timeDay": 321,
+    "timeWeek": 175,
     "timeMonth": 231,
-    "timeYear": 270,
+    "timeYear": 271,
     "dailyMinutesDown": {
       "2021-07-12": 184
     }
@@ -151,11 +150,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 137,
-    "timeDay": 79,
-    "timeWeek": 108,
-    "timeMonth": 138,
-    "timeYear": 137,
+    "time": 138,
+    "timeDay": 257,
+    "timeWeek": 110,
+    "timeMonth": 139,
+    "timeYear": 138,
     "dailyMinutesDown": {
       "2021-07-12": 184
     }
