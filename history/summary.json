@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/explorer.secrettestnet.io",
     "slug": "holodeck-explorer",
     "status": "down",
-    "uptime": "25.03%",
+    "uptime": "24.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.03%",
+    "uptimeYear": "24.91%",
     "time": 292,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2021-11-12": 56,
+      "2021-11-12": 1261,
       "2021-11-11": 1440,
       "2021-11-10": 1440,
       "2021-11-09": 1440,
@@ -157,7 +157,7 @@
     "url": "https://faucet.secrettestnet.io/",
     "icon": "https://favicons.githubusercontent.com/faucet.secrettestnet.io",
     "slug": "faucet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -168,7 +168,9 @@
     "timeWeek": 154,
     "timeMonth": 178,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-12": 0
+    }
   },
   {
     "name": "LCD",
