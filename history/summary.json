@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/explorer.secrettestnet.io.ico",
     "slug": "holodeck-explorer",
     "status": "down",
-    "uptime": "5.79%",
+    "uptime": "5.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-24": 97,
+      "2023-06-25": 109,
+      "2023-06-24": 1440,
       "2023-06-23": 1440,
       "2023-06-22": 1440,
       "2023-06-21": 1440,
@@ -379,8 +380,7 @@
       "2022-06-29": 1440,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
-      "2022-06-26": 1440,
-      "2022-06-25": 1440
+      "2022-06-26": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/faucet.secrettestnet.io.ico",
     "slug": "faucet",
     "status": "down",
-    "uptime": "63.90%",
+    "uptime": "63.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.23%",
+    "uptimeYear": "23.96%",
     "time": 186,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2023-06-24": 97,
+      "2023-06-25": 109,
+      "2023-06-24": 1440,
       "2023-06-23": 1440,
       "2023-06-22": 1440,
       "2023-06-21": 1440,
@@ -686,7 +687,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chainofsecrets.secrettestnet.io.ico",
     "slug": "lcd",
     "status": "down",
-    "uptime": "29.99%",
+    "uptime": "29.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -697,7 +698,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-24": 97,
+      "2023-06-25": 109,
+      "2023-06-24": 1440,
       "2023-06-23": 1440,
       "2023-06-22": 1440,
       "2023-06-21": 1440,
@@ -1060,8 +1062,7 @@
       "2022-06-29": 1440,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
-      "2022-06-26": 1440,
-      "2022-06-25": 1440
+      "2022-06-26": 1440
     }
   },
   {
@@ -1070,7 +1071,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chainofsecrets.secrettestnet.io.ico",
     "slug": "rpc",
     "status": "down",
-    "uptime": "29.99%",
+    "uptime": "29.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1081,7 +1082,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-24": 97,
+      "2023-06-25": 109,
+      "2023-06-24": 1440,
       "2023-06-23": 1440,
       "2023-06-22": 1440,
       "2023-06-21": 1440,
@@ -1444,8 +1446,7 @@
       "2022-06-29": 1440,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
-      "2022-06-26": 1440,
-      "2022-06-25": 1440
+      "2022-06-26": 1440
     }
   }
 ]
