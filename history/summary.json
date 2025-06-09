@@ -9,14 +9,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.64%",
+    "uptimeYear": "9.36%",
     "time": 810,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 812,
+    "timeYear": 818,
     "dailyMinutesDown": {
-      "2025-06-08": 113,
+      "2025-06-09": 111,
+      "2025-06-08": 1440,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
@@ -357,18 +358,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/faucet.secrettestnet.io.ico",
     "slug": "faucet",
     "status": "down",
-    "uptime": "35.88%",
+    "uptime": "35.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.63%",
+    "uptimeYear": "9.36%",
     "time": 845,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 846,
+    "timeYear": 849,
     "dailyMinutesDown": {
-      "2025-06-08": 113,
+      "2025-06-09": 111,
+      "2025-06-08": 1440,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
@@ -710,7 +712,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chainofsecrets.secrettestnet.io.ico",
     "slug": "lcd",
     "status": "down",
-    "uptime": "15.51%",
+    "uptime": "15.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -719,9 +721,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 643,
+    "timeYear": 642,
     "dailyMinutesDown": {
-      "2025-06-08": 113,
+      "2025-06-09": 111,
+      "2025-06-08": 1440,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
@@ -1084,8 +1087,7 @@
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
-      "2024-06-10": 1440,
-      "2024-06-09": 1440
+      "2024-06-10": 1440
     }
   },
   {
@@ -1094,7 +1096,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chainofsecrets.secrettestnet.io.ico",
     "slug": "rpc",
     "status": "down",
-    "uptime": "15.51%",
+    "uptime": "15.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1105,7 +1107,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-08": 113,
+      "2025-06-09": 111,
+      "2025-06-08": 1440,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
@@ -1468,8 +1471,7 @@
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
-      "2024-06-10": 1440,
-      "2024-06-09": 1440
+      "2024-06-10": 1440
     }
   }
 ]
